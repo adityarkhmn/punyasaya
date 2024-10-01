@@ -1,2 +1,0 @@
-# punyasaya
-mencoba menyimpan data
